@@ -1,32 +1,19 @@
 # Evaluation of Molecular Dynamics-Based Modeling for Electric Field-Stimulated X-Ray Crystallography
 
-Thesis presented for a BA with honors in Chemical and Physical Biology at Harvard University
+Thesis presented for a BA with honors in Chemical and Physical Biology at Harvard University (2021)
 
-
-## Directories:
-- `css/`: contains our custom `style.css` and library CSS files
-
-- `data/`: 
-  - `clean/`: modified data sources 
-  - `raw/`: raw csv files obtained from Crunchbase and Tableau
-  - `scripts/`: Jupyter Notebooks used to perform EDA, clean data, modify CSVs, and create JSON files
-  
-- `img/`: miscellaneous images used throughout the website
-
-- `index.html`: main html file 
-
-- `js/`: contains js files - [`bootstrap-multiselect.js`](https://bbbootstrap.com/snippets/multiselect-dropdown-list-83601849), [`jquery.drawsvg.js`](http://leocs.me/jquery-drawsvg/),  and [`noframework.waypoints.js`](http://imakewebthings.com/waypoints/guides/getting-started/) are external; all other files are internal
-  - `barVis.js`: bar chart visualization
-  - `bootstrap-multiselect.js`:
-  - `bubbleVis.js`: static bubble chart visualization
-  - `chartPacking.js`: dynamic, zoomable chart packing visualization
-  - `chooseVis.js`: epilogue visualization
-  - `innovativeVis.js`: funding timeline visualization
-  - `jquery.drawsvg.js`:
-  - `legend.js`: reusable legend used in bubbleVis and chartPacking
-  - `main.js`: main js file for loading data and visualizations
-  - `mapVis.js`: map visualization
-  - `noframework.waypoints.js`:
-  - `scatterVis.js`: scatter plot visualization
-
+Protein X-ray crystallography encompasses a wide variety of techniques and research
+interests, aimed at determining protein structures at the atomic level. Electric Field
+Stimulated X-Ray Crystallography (EF-X) is a time-resolved method that focuses on the
+propagation of motion within proteins by capturing the conformational changes induced
+by the application of high-voltage pulses. A major challenge with EF-X lies in the eventual
+dielectric breakdown of the crystals due to gradual heating from electric field-induced ion
+flow. Such heating ultimately limits the longest timescale accessible by EF-X experiments.
+Here, I propose a framework for molecular dynamics (MD) simulation of the protein
+crystal during an EF-X experiment to directly assess the movement of ionic groups. I
+compare this framework against experimental studies of protein crystals and a published
+EF-X experiment in order to confirm that it reproduces the main features of the
+experiment. In this framework, I will then quantify the effects of different experimental
+modifications on ionic currents through the protein crystal to enable EF-X studies
+accessing slower conformational dynamics.
 
