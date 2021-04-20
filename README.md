@@ -1,6 +1,6 @@
 # Evaluation of Molecular Dynamics-Based Modeling for Electric Field-Stimulated X-Ray Crystallography
 
-Thesis presented for a BA with honors in Chemical and Physical Biology at Harvard University (2021)
+[Thesis](Thesis.pdf) presented for a BA with honors in Chemical and Physical Biology at Harvard University (2021)
 
 ## Abstract
 Protein X-ray crystallography encompasses a wide variety of techniques and research
