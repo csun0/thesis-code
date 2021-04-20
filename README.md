@@ -2,6 +2,7 @@
 
 Thesis presented for a BA with honors in Chemical and Physical Biology at Harvard University (2021)
 
+## Abstract
 Protein X-ray crystallography encompasses a wide variety of techniques and research
 interests, aimed at determining protein structures at the atomic level. Electric Field
 Stimulated X-Ray Crystallography (EF-X) is a time-resolved method that focuses on the
