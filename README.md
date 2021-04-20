@@ -1,9 +1,7 @@
-# EVALUATION OF MOLECULAR DYNAMICS-BASED MODELING FOR ELECTRIC FIELD-STIMULATED X-RAY CRYSTALLOGRAPHY
+# Evaluation of Molecular Dynamics-Based Modeling for Electric Field-Stimulated X-Ray Crystallography
 
 Thesis presented for a BA with honors in Chemical and Physical Biology at Harvard University
 
-## Data Sources: 
-Our dataset comes from [CrunchBase](https://public.tableau.com/s/resources?qt-overview_resources=1#qt-overview_resources) - it contains information for nearly 50,000 companies: what markets they operate in, when they were founded, where they're based, how many funding rounds they had, who invested, by whom they were acquired, etc. We also used data from [Simple Maps](https://simplemaps.com/) to get latitude and longitude coordinates for cities. Information about different companies was taken from Wikipedia articles, [TechCrunch](https://techcrunch.com/2013/12/14/crunchbase-reveals-the-average-successful-startup-raises-41m-exits-at-242-9m/) articles, and [miscellaneous articles](https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp).
 
 ## Directories:
 - `css/`: contains our custom `style.css` and library CSS files
